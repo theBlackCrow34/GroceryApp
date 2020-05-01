@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "949622073494",
+    "firebase_url": "https://groceryappatif.firebaseio.com",
+    "project_id": "groceryappatif",
+    "storage_bucket": "groceryappatif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949622073494:android:1f5d93eb979159edb3bab7",
+        "android_client_info": {
+          "package_name": "com.sale.refaq.groceryappatif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949622073494-45gttevteud4loqi31o74mnjghc6kkpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sale.refaq.groceryappatif",
+            "certificate_hash": "024784697087337877c4d18c1ef0f5743b2fdb2d"
+          }
+        },
+        {
+          "client_id": "949622073494-t6kp06se40ju654bb6mk0t551p6s9l8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBeJ7Y-xoc9PYPnx5rJce3Tu0iAyUybUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949622073494-t6kp06se40ju654bb6mk0t551p6s9l8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
